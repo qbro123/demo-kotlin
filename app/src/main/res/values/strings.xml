@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example One</string>
+    <string name="add_product">Thêm tin mới</string>
+    <string name="hint_search">Tìm kiếm</string>
+</resources>
